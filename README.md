@@ -3,7 +3,6 @@ Ebook criado para o projeto "Ebook Gerado por I.A.s"
 
 
 
-
 📕Clique aqui para ler
 
 💻 Tecnologias utilizadas no projeto:
@@ -27,6 +26,10 @@ conteúdo:	Crie um texto para ebook, com foco em economia, o nicho será adolesc
 {REGRAS} a linguagem deve ser simples e cada conceito deverá conter uma pequena anedota antes da explicação.
 
 Midjourney：
+
+
+
+
 
 
 título:	old gold cois falling
