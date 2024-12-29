@@ -5,6 +5,7 @@ Ebook criado para o projeto "Ebook Gerado por I.A.s"
 
 
 📕Clique aqui para ler
+https://github.com/gabrielkpontes/Ebook-Dinheiro-Bancos-Infla-o-Um-Guia-para-a-Vida-Real/issues/3#issue-2762399054
 
 
 
