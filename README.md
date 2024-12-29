@@ -33,10 +33,6 @@ conteúdo:	Crie um texto para ebook, com foco em economia, o nicho será adolesc
 Midjourney：
 
 
-
-
-
-
 título:	old gold cois falling
 
 ✨ Features
@@ -47,7 +43,7 @@ Imagens geradas via MidJourney
 
 📚 Materiais
 
-Imagens utilizadas em assets
+Imagens utilizadas em: "assets"
 
-ebook gerado durante as aulas em output
+ebook gerado durante as aulas em: "output"
 
